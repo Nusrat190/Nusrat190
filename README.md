@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cancer genomics and bioinformatics project
 - 📫 How to reach me afrinanamikanusrat@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am Pharmacist and Public Speaker too!
+- ⚡ Fun fact: I am a Pharmacist and Public Speaker too!
 
 <!---
 Nusrat190/Nusrat190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
