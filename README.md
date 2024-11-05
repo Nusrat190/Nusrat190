@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nusrat190
 - 👀 I’m interested in Bioinformatics and data science
-- 🌱 I’m currently learning Machine Learning, Linux, Biostatistics & R
+- 🌱 I’m interested in precision oncology and targeted therapy 
 - 💞️ I’m looking to collaborate on cancer genomics and bioinformatics project
 - 📫 How to reach me afrinanamikanusrat@gmail.com
 - 😄 Pronouns: She/her
