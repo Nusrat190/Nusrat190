@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Nusrat190
-- 👀 I’m interested in Bioinformatics and data science
-- 🌱 I’m interested in precision oncology and targeted therapy 
-- 💞️ I’m looking to collaborate on cancer genomics and bioinformatics project
-- 📫 How to reach me afrinanamikanusrat@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a Pharmacist and Public Speaker too!
+-  Hi, I’m Nusrat from Bangladesh 🧕
+-  I’m interested in Cancer biology and targeted therapy 🍂
+-  I’m a continuous learner and currently exploring R, Python and Linux
+-  I’m looking to collaborate on cancer genomics and bioinformatics project
+-  To reach me afrinanamikanusrat@gmail.com
+-  Pronouns: She/her
+-  Fun fact: I am a Pharmacist and Public Speaker too!🪶
 
 <!---
 Nusrat190/Nusrat190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
